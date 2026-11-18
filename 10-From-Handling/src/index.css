@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(9, 11, 11);
+    padding: auto;
+
+
+}
+input,button{
+padding: 10px 20px;
+color: rgb(75, 117, 154);
+background-color: azure;
+margin: 10px;
+font-size: 15px;
+}

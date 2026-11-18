@@ -1,0 +1,12 @@
+.Card{
+  background-color: #e18f8f;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.Navbar{
+  background-color: #f36161;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
